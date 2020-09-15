@@ -1,0 +1,12 @@
+Package: lab3AICKB
+Type: Package
+Title: functions made for lab3
+Version: 1.0
+Date: 2020-09-15
+Author: CHEN,Aqsa
+Maintainer: CHEN <Olivandtempest@gmail.com>,Aqsa<aqsaciit@gmail.com>
+Description: euclidean function and so on.
+License: GPL-2
+Depends: R (>= 2.10)
+Encoding: UTF-8
+RoxygenNote: 7.1.1
