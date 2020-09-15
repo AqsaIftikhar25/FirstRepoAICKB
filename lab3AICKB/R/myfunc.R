@@ -16,8 +16,6 @@
 #' euclidean(100, 1000)
 #' @export
 
-# name <- "Syeda Aqsa Iftikhar"
-# liuid <- "syeif776"
 
 #1.1.1 euclidean()
 euclidean = function(a,b)
