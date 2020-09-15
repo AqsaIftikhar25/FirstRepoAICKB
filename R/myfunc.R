@@ -10,12 +10,11 @@
 #' @return The greatest common divisor of \code{a} and \code{b}.
 #'
 #' @references \url{https://en.wikipedia.org/wiki/Euclidean_algorithm}
-#'
+#' @usage euclidean(a, b)
 #' @examples
 #' euclidean(123612, 13892347912)
 #' euclidean(100, 1000)
 #' @export
-
 
 #1.1.1 euclidean()
 euclidean = function(a,b)

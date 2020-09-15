@@ -11,3 +11,6 @@ LazyData: true
 Depends: R (>= 3.5.0)
 Encoding: UTF-8
 RoxygenNote: 7.1.1
+NeedsCompilation: no
+Packaged: 2020-09-15 16:28:43 UTC; Administrator
+Built: R 4.0.2; ; 2020-09-15 16:28:51 UTC; windows
