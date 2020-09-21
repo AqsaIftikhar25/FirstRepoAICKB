@@ -1,8 +1,8 @@
 #' Euclidean Function
 #' @name Euclidean
 #'
-#' @param a A numeric.
-#' @param b A numeric.
+#' @param a A integer.
+#' @param b A integer.
 #'
 #' @description Take two numbers a and b, and calculate euclidean distance between them. This basically
 #' calculates greatest common divisor of those numbers. The calculation continues until remainder is 0.
