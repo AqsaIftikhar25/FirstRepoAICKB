@@ -27,5 +27,7 @@ euclidean = function(a,b)
   return(a)
 }
 
+Sys.setenv("_R_CHECK_SYSTEM_CLOCK_" = 0)
+
 
 
