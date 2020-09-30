@@ -10,6 +10,5 @@
 #'}
 #'
 #'@references \url{https://en.wikipedia.org/wiki/Dijkstra\%27s}
-#'
 "wiki_graph"
 
